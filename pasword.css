@@ -1,0 +1,47 @@
+.imagesignUp{
+    background-image: url(./img/image\ 1.svg); 
+} 
+.img {
+    padding: 55% 85% 45% 15%;
+}
+
+.conten-rigt{
+    padding-left: 83px;
+    padding-top: 100px;
+}
+
+.sign-up{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.p1{
+    font-size: 18px;
+    color: #aaa;
+}
+
+.card{
+  padding-top: 10px;
+  padding-left: 20px;
+  background-color: #fcfdfe;
+  font-size: 16px;
+  color: #A0A3BD;
+  margin-bottom: 35px;
+}
+.btn-primary{
+    background-color: #5F2EEA;
+    padding-right: 44%;
+    padding-left: 44%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    
+}
+
+.signin{
+    color:#5F2EEA ;
+    text-decoration: underline;
+   
+}
+.p3{
+    padding-left: 25%;
+}
